@@ -1,5 +1,5 @@
 {
-  "name": "drupal_recipe/atk_standalone",
+  "name": "performant-labs/atk_standalone",
   "description": "Create a standalone Drupal site with Automated Testing Kit.",
   "keywords": ["recipe", "Automated Testing Kit", "standalone"],
   "type": "drupal-recipe",

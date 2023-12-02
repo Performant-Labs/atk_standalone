@@ -6,11 +6,10 @@ description: "Set up Automated Testing Kit on a new, empty Drupal installation."
 # the installer.
 type: 'Site'
 
-recipes:
-  # An array of recipe's to apply prior to applying this recipe. If any of these
-  # recipes fail to be applied, this recipe will not be applied either.
-  #
-  # None currently.
+# An array of recipe's to apply prior to applying this recipe. If any of these
+# recipes fail to be applied, this recipe will not be applied either.
+#
+#recipes:
 
 install:
   # An array of modules or themes to install, if they are not already.

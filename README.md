@@ -5,7 +5,7 @@ or when starting a new project that will use ATK.
 This recipe is designed to do the following:
 
 - Install Drupal - Standard version.
-- Add some useful modules.
+- Add Automated Testing Kit and some useful modules.
 - Set specific contributed module configuration.
 
 ## Installing

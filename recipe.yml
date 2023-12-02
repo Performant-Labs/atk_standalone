@@ -29,7 +29,7 @@ install:
   #
   # config:
 
-  import:
+  # import:
 
   # Configuration actions may be defined. The structure here should be
   # configuration entity ID, action, and then action arguments. Below the user
@@ -37,9 +37,8 @@ install:
   # and then has permissions added. The permissions key will be mapped to the
   # \Drupal\user\Entity\Role::grantPermission() method.
   #
-  # None currently.
 
-  actions:
+  # actions:
 
 # A Drupal recipe can have a content directory. All content in this
 # directory will be created after the configuration is installed.

@@ -12,6 +12,7 @@
   ],
   "require": {
     "drupal/core": "^10",
+    "drupal/automated_testing_kit": "^1.0",
     "drupal/gin": "^3.0",
     "drupal/gin_login": "^2.0",
     "drupal/gin_toolbar": "^1.0",

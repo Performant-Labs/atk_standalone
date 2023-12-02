@@ -1,5 +1,5 @@
 name: 'Automated Testing Kit - Standalone'
-description: 'Set up Automated Testing Kit on a new, empty Drupal installation.''
+description: 'Set up Automated Testing Kit on a new, empty Drupal installation.'
 # The type key is similar to the package key in module.info.yml. It
 # can be used by the UI to group Drupal recipes. Additionally,
 # the type 'Site' means that the Drupal recipe will be listed in
